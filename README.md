@@ -61,7 +61,7 @@ Investigate potentially malicious URLs extracted from phishing emails and assess
 - **Final Destination URL:** `hxxp[://]mails1-redirect[.]in/18`
 - **Initial URL:** `hxxps[://]bit[.]ly/3FLcDKL?480442`
 
-### ✅ **4. CyberChef Analysis**
+### **4. CyberChef Analysis**
 - **Decoded JS Payload:** Hidden `<form>` action sending credentials to C2 server.
 - **Encoded Elements Detected:** Hex, Base64 obfuscation used to hide phishing form.
 
