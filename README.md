@@ -79,10 +79,9 @@ Investigate potentially malicious URLs extracted from phishing emails and assess
 | Domain reputation flagged              | Yes     | VirusTotal         |  2/91 security vendors flagged this URL as malicious          |
 | Redirects through shortener or iframe  | Yes     | ExpandURL.net, URLScan.io | Suspicious behavior |
 | Mimics login page                      | Yes     | URL2PNG Screenshot        | Visual shows fake login interface  |
-| Credential harvesting script detected  | Yes     | CyberChef                 | Base64-decoded form action to C2 |
 | Listed on threat intel platforms	 | Yes     | VirusTotal       	       | Verified phishing by Criminal IP and Trustwave security vendors  |
 
-> **Final Threat Score: 5 / 5 – High Risk Phishing URL**
+> **Final Threat Score: 4 / 4 – High Risk Phishing URL**
 
 ---
 
@@ -135,11 +134,11 @@ Investigate potentially malicious URLs extracted from phishing emails and assess
 
 ## Report Metadata
 
-| **Analyst Name:**   | Martin Bassey         |
+| **Analyst Name:**   |Martin Bassey         |
 |---------------------|--------------------------|
 | **Date of Analysis:**| 2025-April-16              |
 | **Project Type:**    | SOC Analyst Portfolio Project |
 | **Tools Used:**      | See tools list above    |
-| **Repository Link:** | [GitHub Project Link](https://github.com/yourrepo) |
+| **Repository Link:** | ![SOC-Analyst-Portfolio-Project](https://github.com/martinbassey/SOC-Analyst-Portfolio-Project?tab=readme-ov-file)
 
 ---
