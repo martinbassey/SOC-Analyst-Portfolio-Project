@@ -12,7 +12,6 @@ Investigate potentially malicious URLs extracted from phishing emails and assess
 - [URLScan.io](https://urlscan.io)
 - [VirusTotal](https://www.virustotal.com)
 - [ExpandURL.net](https://expandurl.it)
-- [CyberChef](https://gchq.github.io/CyberChef/)
 - [URL2PNG](https://www.url2png.com)
 
 ---
